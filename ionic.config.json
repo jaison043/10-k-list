@@ -1,0 +1,8 @@
+{
+  "name": "10KList",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular",
+  "id": "b6314ac4"
+}
