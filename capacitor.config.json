@@ -1,6 +1,6 @@
 {
-	"appId": "io.ionic.starter",
-	"appName": "10KList",
-	"webDir": "www",
-	"bundledWebRuntime": false
+  "appId": "io.ionic.starter",
+  "appName": "10KList",
+  "webDir": "www",
+  "bundledWebRuntime": false
 }
